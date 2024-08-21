@@ -37,59 +37,59 @@ Link to the Dashboard : ![Click Here](https://lookerstudio.google.com/reporting/
 
 # Dashboard Interpretation
 
-## 1. Percentage of Content Type
-### Summary
+### 1. Percentage of Content Type
+#### Summary
 This pie chart shows the distribution percentage of different content types uploaded, including photos, videos, GIFs, and audio.
 
-### Findings
+#### Findings
 - **Photos**: 26.8% of all content (most frequently uploaded)
 - **Videos**: 24.7% of all content
 - **GIFs**: 25.4% of all content
 - **Audio**: 23% of all content (least common)
 
-## 2. Sentiment Percentage of Category
-### Summary
+### 2. Sentiment Percentage of Category
+#### Summary
 This chart displays the distribution of sentiment (positive, neutral, negative) across various content categories.
 
-### Findings
+#### Findings
 - **Positive Sentiment**: 56.2% of the overall reactions (predominant sentiment)
 - **Neutral Sentiment**: 31.3% of the total reactions
 - **Negative Sentiment**: 12.5% of the total reactions (least common)
 
-## 3. Monthly Content Uploads
-### Summary
+### 3. Monthly Content Uploads
+#### Summary
 This line graph shows the monthly trend of content uploads from June 2020 to June 2021.
 
-### Findings
+#### Findings
 - **Peak Uploads**: 2,070 uploads in July 2020
 - **Stable Trend**: After July 2020, uploads remained relatively stable with slight declines in early 2021.
 - **Sharp Drop**: Significant drop in June 2021 (1,129 uploads)
 
-## 4. Content Categories by Score
-### Summary
+### 4. Content Categories by Score
+#### Summary
 This bar chart displays the top five content categories by score.
 
-### Findings
+#### Findings
 - **Top Categories**: Animals and Science, each around 70,000 points.
 - **Other High Scores**: Healthy Eating, Technology, and Food, each around 60,000 points.
 
-## 5. Reaction Types of Category
-### Summary
+### 5. Reaction Types of Category
+#### Summary
 This bar chart shows the number of different reactions received by content categories.
 
-### Findings
+#### Findings
 - **Most Common Reactions**: Heart and Scared reactions, approximately 1,800 interactions each.
 - **Other Reactions**: Peeking, Hate, and Interested reactions, each with about 1,700 interactions.
 
-## 6. Record Count & Content ID
-### Summary
+### 6. Record Count & Content ID
+#### Summary
 This section displays the total number of records analyzed and the number of unique content IDs.
 
-### Findings
+#### Findings
 - **Total Records**: 24,573 records analyzed
 - **Unique Content IDs**: 962 unique content IDs
 
-## Insights
+### Insights
 - **Dominance of Visual Content**: Higher percentage of photo and video uploads suggest that visual content is more favored, aligning with social media trends.
 - **Positive Sentiment Prevails**: Positive sentiment dominating indicates high user satisfaction and engagement.
 - **Content Upload Trends**: Spike in mid-2020 followed by decline; further investigation needed into the causes.
