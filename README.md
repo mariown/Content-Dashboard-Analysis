@@ -33,7 +33,7 @@ The main objectives of this project are:
 
 ## Dashboard Preview
 ![Content Dashboard Analysis](https://github.com/mariown/Content-Dashboard-Analysis/blob/main/Dashboard%20Preview)
-![Link to Dashboard](https://lookerstudio.google.com/reporting/a4c35e83-da91-497c-abce-d02229fb63c0)
+Link to the Dashboard : ![](https://lookerstudio.google.com/reporting/a4c35e83-da91-497c-abce-d02229fb63c0)
 
 # Dashboard Interpretation
 
