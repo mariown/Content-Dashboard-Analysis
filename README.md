@@ -4,7 +4,7 @@
 This project is a comprehensive analysis of various content types and reactions, visualized through a custom-built dashboard. The data provides insights into how different types of content are received based on various reaction types, sentiment scores, and categories.
 
 ## Project Background
-This project was developed as part of the __Accenture North America Data Analytics and Visualization Job Simulation on Forage__. The simulation provided a dataset containing user reactions to different content types, and the objective was to analyze and visualize the data to uncover patterns and insights.
+This project was developed as part of the ___Accenture North America Data Analytics and Visualization Job Simulation on Forage___. The simulation provided a dataset containing user reactions to different content types, and the objective was to analyze and visualize the data to uncover patterns and insights.
 
 ## Data Source
 The dataset includes the following columns:
